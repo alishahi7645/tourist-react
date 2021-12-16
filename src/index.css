@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Vazir';
+  src: local('Vazir'), url(./font/vazir.ttf) format('truetype');
+}
+body {
+  margin: 0;
+  font-family:Vazir;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
